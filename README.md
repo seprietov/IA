@@ -1,3 +1,2 @@
 # IA
-
-probaremos los avances en IA de la clase.
+repo con proyectos relacionados con IA
